@@ -3,7 +3,7 @@
 CrossMap Docker Container
 
 * [GitHub](https://github.com/informationsea/crossmap-docker)
-* [DockerHub](https://cloud.docker.com/repository/docker/informationsea/crossmap)
+* [DockerHub](https://hub.docker.com/r/informationsea/crossmap)
 
 ## Upstream Project
 
